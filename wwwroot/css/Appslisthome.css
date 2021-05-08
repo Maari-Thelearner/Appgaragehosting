@@ -1,0 +1,22 @@
+.card-align {
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    
+}
+
+.card-main{
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.card-header {
+    
+    background: -webkit-linear-gradient(to left, blue, violet);
+    background: linear-gradient(to left, blue, violet);
+    
+}
+.btn {
+    background-color: green;
+    color: white;
+}
+

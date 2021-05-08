@@ -1,0 +1,7 @@
+.card-body{
+    margin: 0 auto;
+}
+.card-header {
+    background: linear-gradient(rgb(110,110,110,.9), rgb(28,28,28,.7));
+    color: white;
+}
